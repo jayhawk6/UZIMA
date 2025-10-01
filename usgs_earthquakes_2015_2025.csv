@@ -1,0 +1,54 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-30T15:03:58.826Z,-4.3852,35.1531,10,4.6,mb,18,132,3.518,0.66,us,us6000r184,2025-08-22T05:45:52.080Z,"8 km ESE of Basotu, Tanzania",earthquake,7.14,1.954,0.165,11,reviewed,us,us
+2025-07-09T22:12:56.764Z,-4.528,35.1204,10,5,mb,95,42,3.627,0.58,us,us7000qbp5,2025-09-20T22:27:51.040Z,"18 km SSE of Basotu, Tanzania",earthquake,7.83,1.8,0.064,77,reviewed,us,us
+2025-05-25T19:52:21.982Z,-4.5049,35.0267,10,4.3,mb,24,104,3.689,0.74,us,us6000qjdw,2025-08-13T15:14:28.040Z,"16 km SSW of Basotu, Tanzania",earthquake,6.18,1.948,0.129,17,reviewed,us,us
+2025-05-25T19:51:54.369Z,-4.1821,34.7605,10,4.2,mb,16,107,3.744,0.69,us,us6000qjdp,2025-08-13T15:14:28.040Z,"41 km WNW of Basotu, Tanzania",earthquake,6.18,1.928,0.186,8,reviewed,us,us
+2025-05-25T03:35:32.096Z,-4.4299,35.1133,10,4.6,mb,14,145,3.576,1.43,us,us7000q1ce,2025-08-13T15:14:32.040Z,"7 km SSE of Basotu, Tanzania",earthquake,10.97,1.952,0.206,7,reviewed,us,us
+2025-05-07T07:35:59.627Z,-2.5975,35.988,10,4.4,mb,24,117,1.931,1.04,us,us7000pxnv,2025-07-24T21:30:10.040Z,"80 km W of Longido, Tanzania",earthquake,7.17,1.925,0.149,13,reviewed,us,us
+2025-03-17T10:44:15.541Z,-4.5186,35.1376,10,4.6,mb,35,132,3.607,0.76,us,us6000pzat,2025-05-17T19:20:00.040Z,"17 km SSE of Basotu, Tanzania",earthquake,3.52,1.906,0.111,24,reviewed,us,us
+2025-01-17T11:10:28.504Z,-4.3083,35.0327,10,4.6,mb,19,106,3.575,0.3,us,us6000pml4,2025-03-29T22:12:47.040Z,"8 km NW of Basotu, Tanzania",earthquake,6.77,1.901,0.158,12,reviewed,us,us
+2024-12-16T14:02:40.711Z,-3.2712,35.8467,10,4.5,mb,17,133,2.241,0.9,us,us6000ph96,2025-02-27T17:30:47.040Z,"8 km N of Mto wa Mbu, Tanzania",earthquake,8.87,1.813,0.205,7,reviewed,us,us
+2024-08-27T21:48:22.009Z,-4.2815,35.1136,10,4.5,mb,24,140,3.792,0.58,us,us6000nn4g,2024-11-09T21:18:31.040Z,"10 km NNE of Basotu, Tanzania",earthquake,13.52,1.934,0.145,15,reviewed,us,us
+2024-08-23T01:13:10.965Z,-4.2845,35.0457,10,4.4,mb,22,159,3.507,0.92,us,us7000ngac,2024-11-02T21:29:36.040Z,"10 km NNW of Basotu, Tanzania",earthquake,6.32,1.897,0.162,11,reviewed,us,us
+2024-07-16T17:32:54.726Z,-1.8615,36.2298,10,4.6,mb,47,57,0.857,0.64,us,us7000mzmk,2024-09-28T22:42:03.040Z,"7 km NW of Magadi, Kenya",earthquake,6.53,1.851,0.112,24,reviewed,us,us
+2024-06-22T00:20:47.671Z,-2.2896,39.1603,9.598,4.4,mb,54,51,2.229,0.51,us,us7000mtvm,2024-08-30T18:17:07.040Z,"119 km ENE of Mtito Andei, Kenya",earthquake,8.61,4.249,0.085,40,reviewed,us,us
+2024-02-17T10:35:12.853Z,-4.0385,35.19,10,4.4,mb,10,96,3.301,0.28,us,us7000m0t4,2024-04-24T14:42:06.040Z,"21 km W of Dongobesh, Tanzania",earthquake,9.68,1.913,0.309,3,reviewed,us,us
+2024-01-20T02:04:43.435Z,-3.8598,35.6806,10,4.5,mb,23,107,2.791,1.2,us,us7000ltzd,2024-03-29T17:37:57.040Z,"16 km E of Mbulu, Tanzania",earthquake,4.41,1.91,0.172,11,reviewed,us,us
+2023-08-02T22:00:08.152Z,-4.2799,35.2579,10,4.5,mb,43,85,3.372,0.3,us,us6000kxea,2023-10-07T21:38:56.040Z,"18 km WSW of Bashanet, Tanzania",earthquake,7.07,1.635,0.097,31,reviewed,us,us
+2023-07-16T06:20:11.853Z,-4.3543,35.2195,10,4.1,mb,15,145,3.446,0.55,us,us7000khze,2023-09-28T21:34:15.040Z,"Tanzania",earthquake,7,1.933,0.175,9,reviewed,us,us
+2023-04-09T23:33:06.730Z,-4.4776,35.0866,10,4.5,mb,38,72,3.625,0.68,us,us6000k35q,2023-06-17T21:36:42.040Z,"12 km S of Basotu, Tanzania",earthquake,8.46,1.924,0.118,21,reviewed,us,us
+2023-02-08T15:32:40.086Z,-4.914,39.3912,10,4.7,mb,46,68,2.872,0.41,us,us6000jmiw,2023-09-10T20:16:42.705Z,"Kenya",earthquake,9.54,1.635,0.094,34,reviewed,us,us
+2023-01-27T06:18:48.170Z,-4.8175,35.109,10,4.1,mb,14,150,3.813,0.56,us,us6000jm0y,2024-01-18T19:16:09.692Z,"29 km ENE of Mungaa, Tanzania",earthquake,11.72,1.968,0.197,8,reviewed,us,us
+2023-01-20T21:30:51.083Z,-3.9917,34.3521,10,4.6,mb,61,70,4.027,0.42,us,us7000j5wu,2023-03-31T19:45:45.040Z,"30 km N of Kiomboi, Tanzania",earthquake,8.81,1.889,0.08,47,reviewed,us,us
+2022-12-13T08:44:48.855Z,-2.8622,35.9288,10,4.5,mb,16,92,1.843,1.04,us,us6000j92t,2023-02-18T22:04:08.040Z,"54 km N of Mto wa Mbu, Tanzania",earthquake,5.52,1.917,0.205,7,reviewed,us,us
+2022-10-10T12:12:52.829Z,-3.91,33.7411,10,4.4,mb,31,98,4.45,0.37,us,us6000itmz,2022-12-17T22:54:09.040Z,"10 km NNE of Igurubi, Tanzania",earthquake,9.26,1.9,0.12,20,reviewed,us,us
+2022-09-12T23:04:53.757Z,-2.8625,35.9753,10,4.6,mb,15,124,1.821,0.61,us,us7000i9hb,2022-11-19T23:03:39.040Z,"55 km NNE of Mto wa Mbu, Tanzania",earthquake,5.56,1.933,0.273,4,reviewed,us,us
+2022-09-05T22:11:25.365Z,-4.9343,35.1796,10,4.7,mb,52,56,3.835,0.7,us,us7000i5hd,2022-11-15T19:06:09.040Z,"33 km E of Mungaa, Tanzania",earthquake,5.43,1.874,0.081,46,reviewed,us,us
+2022-09-04T01:15:55.986Z,-1.748,34.0693,10,4.4,mb,16,81,2.802,0.97,us,us7000i7dh,2022-11-15T19:06:14.040Z,"11 km E of Butiama, Tanzania",earthquake,8.86,1.898,0.219,6,reviewed,us,us
+2022-08-31T08:04:38.549Z,0.7332,33.276,10,4.2,mb,12,101,2.863,0.78,us,us7000i3yv,2022-11-06T04:37:02.040Z,"14 km NE of Buwenge, Uganda",earthquake,6.8,1.7,0.236,5,reviewed,us,us
+2022-08-30T16:09:35.731Z,-3.7406,35.6078,10,4.6,mb,34,75,2.793,0.59,us,us7000i3ql,2022-11-06T04:37:26.040Z,"14 km NE of Mbulu, Tanzania",earthquake,8.52,1.903,0.132,19,reviewed,us,us
+2022-04-02T20:02:10.389Z,-3.6971,37.7571,10,4.2,mb,,81,1.359,1.24,us,us7000h0e6,2022-06-11T20:21:11.040Z,"8 km NNE of Kwakoa, Tanzania",earthquake,7.6,1.9,0.306,3,reviewed,us,us
+2022-03-19T07:18:07.919Z,-4.5319,35.1057,10,4.2,mb,,147,3.64,0.58,us,us7000gwtt,2022-05-28T18:35:30.040Z,"18 km S of Basotu, Tanzania",earthquake,9.3,2,0.305,4,reviewed,us,us
+2022-02-17T15:18:37.832Z,-4.4828,35.0514,10,4,mb,,145,3.656,0.57,us,us7000gn04,2022-04-30T14:18:22.040Z,"13 km SSW of Basotu, Tanzania",earthquake,8.2,2,0.259,4,reviewed,us,us
+2022-01-29T12:47:32.071Z,4.7496,35.4166,10,4.5,mb,,60,1.32,0.25,us,us7000gg7s,2022-04-15T17:57:03.040Z,"76 km W of Lobuni, Ethiopia",earthquake,7.7,1.9,0.118,21,reviewed,us,us
+2022-01-01T21:14:38.098Z,-4.8137,34.9883,10,4.3,mb,,89,3.903,0.91,us,us7000gbd2,2022-03-12T22:19:17.040Z,"20 km NE of Mungaa, Tanzania",earthquake,7.9,2,0.238,5,reviewed,us,us
+2021-10-08T17:35:48.301Z,-4.911,35.017,10,4.4,mb,,99,3.942,0.72,us,us6000fu95,2021-12-18T19:58:39.040Z,"16 km ENE of Mungaa, Tanzania",earthquake,8.5,1.9,0.161,11,reviewed,us,us
+2021-06-17T17:49:08.034Z,-0.6614,33.406,10,4.6,mb,,78,2.668,0.57,us,us7000edwz,2021-08-26T21:59:30.040Z,"102 km NNW of Musoma, Tanzania",earthquake,5.6,1.9,0.07,60,reviewed,us,us
+2021-03-11T01:47:13.775Z,-1.5683,34.2551,10,4.8,mb,,60,2.591,0.49,us,us7000di0h,2021-05-21T19:49:16.040Z,"27 km SSW of Tarime, Tanzania",earthquake,7.5,1.9,0.114,24,reviewed,us,us
+2021-02-25T05:46:50.972Z,-3.5752,35.8905,10,4.1,mb,,58,2.466,0.33,us,us7000ddi4,2021-05-04T14:17:11.040Z,"25 km S of Mto wa Mbu, Tanzania",earthquake,7.2,2,0.145,13,reviewed,us,us
+2020-06-02T05:48:59.488Z,-4.4214,35.6219,10,4.5,mb,,96,3.168,1.01,us,us6000a8ns,2020-08-15T20:20:03.040Z,"11 km E of Endasak, Tanzania",earthquake,5.9,1.9,0.132,17,reviewed,us,us
+2020-06-02T05:44:13.311Z,-4.632,35.8795,10,4.6,mb,,56,3.124,0.85,us,us6000a4pm,2020-08-15T20:20:03.040Z,"31 km NNE of Kondoa, Tanzania",earthquake,8.9,1.9,0.086,40,reviewed,us,us
+2020-05-03T19:36:55.645Z,2.8543,36.0596,10,5,mww,,42,0.896,1.22,us,us700099fc,2020-07-18T21:57:32.040Z,"59 km ESE of Lodwar, Kenya",earthquake,6.3,1.8,0.089,12,reviewed,us,us
+2020-03-13T18:37:43.377Z,-4.8695,38.5887,10,4.9,mb,,32,2.552,0.6,us,us60008f7y,2020-08-12T18:26:57.370Z,"20 km N of Maramba, Tanzania",earthquake,7.6,1.8,0.063,87,reviewed,us,us
+2019-08-20T06:54:58.929Z,-4.2194,36.872,10,4.8,mb,,85,2.186,0.92,us,us600057pe,2019-11-08T22:13:36.040Z,"7 km WSW of Naberera, Tanzania",earthquake,8.3,1.9,0.103,30,reviewed,us,us
+2019-05-12T02:50:58.959Z,-3.6273,35.6901,10,4.2,mb,,139,2.666,0.71,us,us70003k4y,2019-08-01T17:15:15.040Z,"30 km NE of Mbulu, Tanzania",earthquake,12.2,2,0.175,9,reviewed,us,us
+2019-05-08T15:00:22.313Z,-3.8483,35.7741,10,4.2,mb,,146,2.706,0.4,us,us70003ilh,2022-08-08T13:33:42.857Z,"18 km N of Magugu, Tanzania",earthquake,9.5,2,0.263,4,reviewed,us,us
+2019-03-24T16:21:15.480Z,-3.0654,38.162,10,4.7,mb,,83,0.711,0.5,us,us1000jl0h,2019-06-06T18:54:24.040Z,"41 km S of Mtito Andei, Kenya",earthquake,5.9,1.9,0.099,31,reviewed,us,us
+2019-02-07T08:52:38.920Z,-3.3005,37.3751,10,3.7,mb_lg,,256,1.148,0.58,us,us2000jf4q,2019-04-25T15:31:49.040Z,"7 km NE of Moshi, Tanzania",earthquake,5.5,2,0.255,4,reviewed,us,us
+2018-08-22T05:30:34.720Z,-4.7772,34.8912,10,4.6,mb,,88,3.958,1.05,us,us1000gf6m,2022-08-08T07:22:57.975Z,"12 km SSE of Ilongero, Tanzania",earthquake,9,1.9,0.102,29,reviewed,us,us
+2018-08-08T21:07:22.280Z,-3.7282,35.6252,10,4.2,mb,,90,2.771,1.09,us,us1000g8wr,2018-10-17T18:11:44.040Z,"16 km NE of Mbulu, Tanzania",earthquake,6.6,1.9,0.216,6,reviewed,us,us
+2018-08-08T16:51:11.530Z,-2.0577,37.6557,10,3.4,ml,,154,0.489,0.42,us,us1000g5if,2022-08-08T06:59:21.503Z,"28 km S of Makueni Boma, Kenya",earthquake,5.7,2,0.181,4,reviewed,us,us
+2018-08-05T10:58:27.860Z,-2.9203,35.5791,14.39,4.5,mb,,85,2.081,0.9,us,us1000g5sz,2022-09-13T10:17:58.886Z,"36 km NNE of Ngorongoro, Tanzania",earthquake,7.4,4.8,0.104,27,reviewed,us,us
+2016-03-22T10:56:17.410Z,-4.3984,35.9659,10,4.8,mb,,68,2.899,0.88,us,us20005bph,2022-08-02T15:27:35.317Z,"19 km SE of Galappo, Tanzania",earthquake,7.7,1.3,0.082,46,reviewed,us,us
+2015-03-17T00:54:02.890Z,2.9905,35.8175,10,4.2,mb,,99,4.334,1.07,us,us10001p6x,2015-06-04T00:46:23.040Z,"28 km ESE of Lodwar, Kenya",earthquake,8.6,1.9,0.159,11,reviewed,us,us
+2015-03-11T00:11:03.220Z,-4.9636,34.4181,14.93,4.3,mb,,163,4.746,1.09,us,us10001mqt,2015-05-28T00:48:41.040Z,"26 km SSW of Sepuka, Tanzania",earthquake,9.8,6.8,0.266,4,reviewed,us,us
